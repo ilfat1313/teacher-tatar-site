@@ -1,0 +1,11 @@
+teacher-tatar-site/
+│
+├── index.html               — Главная страница
+├── about.html               — Обо мне
+├── materials.html           — Методические материалы
+├── contacts.html            — Контакты
+├── css/
+│   └── style.css            — Стили сайта
+├── images/
+│   └── teacher.jpg          — Пример фото учителя
+└── README.md                — Описание проекта
